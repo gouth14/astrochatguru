@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "a0-project",
-    "slug": "snack-379a2677-79c4-467b-b494-765b66d57780",
+    "name": "AstroChatGuru",
+    "slug": "astrochatguru",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,6 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
+        "package": "com.techbrainz.astrochatguru"
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
