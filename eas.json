@@ -1,15 +1,10 @@
-{
-  "build": {
-    "production": {
-      "android": {
-        "workflow": "managed"
-      },
-      "ios": {
-        "workflow": "managed"
-      }
+"build": {
+  "production": {
+    "android": {
+      "workflow": "managed"
+    },
+    "ios": {
+      "workflow": "managed"
     }
-  },
-  "cli": {
-    "version": ">= 3.13.0"
   }
 }
