@@ -1,9 +1,9 @@
-"build": {
-  "production": {
-    "android": {
-      "workflow": "managed"
-    },
-    "ios": {
+{
+  "cli": {
+    "version": ">= 3.13.0"
+  },
+  "build": {
+    "production": {
       "workflow": "managed"
     }
   }
